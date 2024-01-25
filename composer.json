@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "HuffmanPHP\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/collections": "^10.42",
+        "symfony/var-dumper": "^7.0",
+        "illuminate/support": "^10.42"
+    }
+}
