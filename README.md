@@ -1,3 +1,11 @@
+## Installation
+
+```sh
+git clone https://github.com/amirHossein5/huffman-php.git
+cd huffman-php
+composer install
+```
+
 ## Compression
 
 ```php
