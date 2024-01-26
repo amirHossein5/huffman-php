@@ -17,3 +17,5 @@ Example:
 ```php
 php src/decompress.php build/huffman.binary build/output.txt
 ```
+
+It is not production ready!
