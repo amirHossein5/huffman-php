@@ -2,7 +2,10 @@
     "autoload": {
         "psr-4": {
             "HuffmanPHP\\": "src/"
-        }
+        },
+        "files": [
+            "src/helpers.php"
+        ]
     },
     "require": {
         "illuminate/collections": "^10.42",
