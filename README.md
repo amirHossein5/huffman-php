@@ -26,4 +26,4 @@ Example:
 php src/decompress.php build/huffman.binary build/output.txt
 ```
 
-It is not production ready!
+It may not be production ready!
